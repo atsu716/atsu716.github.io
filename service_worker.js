@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'TetrisApp-caches';
 var urlsToCache = [
-    '/atsu716.github.io/',
+    'https://atsu716.github.io/',
 ];
 
 // service workerの記述 
